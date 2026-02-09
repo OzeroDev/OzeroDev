@@ -6,7 +6,7 @@ ex-Software Engineer intern at [Target](https://tech.target.com/teams/infrastruc
 Technical Co-Founder of [Campus Concierge](https://www.campusconcierge.cc);<br>
 
 ### 📝 Latest Blog Posts
-- [A Practical CI/CD Setup for Go Services with Github Actions](https://ozerodev.com/blog/github-actions-guide)
+- [A Practical CI/CD Setup for Go Services with GitHub Actions](https://ozerodev.com/blog/github-actions-guide)
 
 ### 🚀 Latest Projects
 - 📱 [**Campus Concierge**](https://apps.apple.com/us/app/campus-concierge/id6752625127) - Platform for students to get help and earn money
